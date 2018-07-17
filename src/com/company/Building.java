@@ -1,9 +1,7 @@
 package com.company;
 
 public class Building {
-
-
-
+    
     private Elevator E1;
     private Elevator E2;
     private Elevator E3;
